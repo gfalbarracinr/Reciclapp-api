@@ -58,3 +58,29 @@
         tipo_noticia: 1
     }]
     )
+Question.create([
+    {
+        pregunta: "¿Cuál de estas acciones no pertenece a la regla de las 3 erres de la sostenibilidad?", 
+        respuesta_a: "Reducir", 
+        respuesta_b: "Reutilizar",
+        respuesta_c: "Reciclar",
+        respuesta_d: "Respetar", 
+        correcta: "d"
+    },
+    {
+        pregunta: "¿Cuál de los siguientes residuos se debe reciclar?", 
+        respuesta_a: "Aparatos electrónicos", 
+        respuesta_b: "Plasticos",
+        respuesta_c: "Vidrios y Papel",
+        respuesta_d: "Todas las anteriores", 
+        correcta: "d"
+    },
+    {
+        pregunta: "¿Cuándo se celebra el día internacional del reciclaje?", 
+        respuesta_a: "20 Julio", 
+        respuesta_b: "17 Mayo",
+        respuesta_c: "7 Agosto",
+        respuesta_d: "23 Octubre", 
+        correcta: "b"
+    },
+])
