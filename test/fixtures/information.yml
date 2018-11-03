@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_elemnto: MyString
+  imagen: MyString
+  alt_imagen: MyString
+  decripcion: MyString
+  tipo_noticia: 1
+
+two:
+  tipo_elemnto: MyString
+  imagen: MyString
+  alt_imagen: MyString
+  decripcion: MyString
+  tipo_noticia: 1
